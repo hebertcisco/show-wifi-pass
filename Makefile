@@ -1,4 +1,4 @@
 SHELL := /bin/sh
 
-install:
-	sh install.sh
+run:
+	sh main.sh
