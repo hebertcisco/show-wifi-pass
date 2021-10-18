@@ -25,5 +25,5 @@ OR
 ### Install via curl
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/hebertcisco/shell-script-boilerplate/master/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/hebertcisco/show-wifi-pass/master/main.sh | sh
 ```
